@@ -25,3 +25,6 @@ O texto pode conter no máximo 1000 caracteres e a chave no máximo 20 caractere
 ![image](https://user-images.githubusercontent.com/70992080/119580492-e0408180-bd96-11eb-8e04-5acbc49c42b4.png)
 
 ![image](https://user-images.githubusercontent.com/70992080/119580508-e9c9e980-bd96-11eb-9325-5869b19e37a4.png)
+
+*OBS.: Talvez haja alguns problemas durante a execução do programa em sistemas baseados em linux pois utilizei alguns comandos de C/C++ voltados para o Windows.
+Comandos como "system("pause") e system("cls"). O ambiente ideal para execução do programa é no windows.*
