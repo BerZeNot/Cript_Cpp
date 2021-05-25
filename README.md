@@ -3,7 +3,7 @@
 
 Programa para criptografar e descriptografar mensagens. 
 
-Para utilizar o programa, deve-se insetir um texto/mensagem para criptogravar e uma chave.
+Para utilizar o programa, deve-se inserir um texto/mensagem para criptogravar e uma chave criptográfica.
 O texto pode conter no máximo 1000 caracteres e a chave no máximo 20 caracteres.
 
 ### Menu inicial do programa
